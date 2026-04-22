@@ -1,0 +1,16 @@
+{
+  "name": "c2h-panel",
+  "version": "1.0.0",
+  "description": "C2H Control Panel Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
