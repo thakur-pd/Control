@@ -1,7 +1,7 @@
 {
-  "name": "c2h-panel",
+  "name": "PD-panel",
   "version": "1.0.0",
-  "description": "C2H Control Panel Server",
+  "description": "PD Control Panel Server",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
